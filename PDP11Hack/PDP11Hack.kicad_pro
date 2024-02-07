@@ -340,6 +340,10 @@
     [
       "ff919f2f-374d-4820-aafb-efa05aa6b369",
       "CPU_MEMORY"
+    ],
+    [
+      "803520a2-1026-4643-ad50-3a6c51ceb386",
+      "UART"
     ]
   ],
   "text_variables": {}
